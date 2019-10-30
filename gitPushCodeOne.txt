@@ -1,1 +1,1 @@
-a+b= c an d+e=f
+a+b= c and d+e=f
